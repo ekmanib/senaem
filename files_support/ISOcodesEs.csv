@@ -1,0 +1,249 @@
+País	iso2	iso3	iso_num	COI	Fips 10	Placa vehículo	Domain
+Afganistán	AF	AFG	004	AFG	AF	AFG	.af
+Albania	AL	ALB	008	ALB	AL	AL	.al
+Alemania	DE	DEU	276	GER	GM	D	.de
+Andorra	AD	AND	020	AND	AN	AND	.ad
+Angola	AO	AGO	024	ANG	AO	ANG	.ao
+Anguila	AI	AIA	660		AV	AXA	.ai
+Antártida	AQ	ATA	010		AY		.aq
+Antigua y Barbuda	AG	ATG	028	ANT	AC	AG	.ag
+Arabia Saudita	SA	SAU	682	KSA	SA	KSA	.sa
+Argelia	DZ	DZA	012	ALG	AG	DZ	.dz
+Argentina	AR	ARG	032	ARG	AR	RA	.ar
+Armenia	AM	ARM	051	ARM	AM	AM	.am
+Aruba	AW	ABW	533	ARU	AA	ARU	.aw
+Australia	AU	AUS	036	AUS	AS	AUS	.au
+Austria	AT	AUT	040	AUT	AU	A	.at
+Azerbaiyán	AZ	AZE	031	AZE	AJ	AZ	.az
+Bahamas	BS	BHS	044	BAH	BF	BS	.bs
+Bahrein	BH	BHR	048	BRN	BA	BRN	.bh
+Bailía de Guernsey	GG	GGY	831		GK	GBG	.gg
+Bangladesh	BD	BGD	050	BAN	BG	BD	.bd
+Barbados	BB	BRB	052	BAR	BB	BDS	.bb
+Belarús	BY	BLR	112	BLR	BO	BY	.by
+Bélgica	BE	BEL	056	BEL	BE	B	.be
+Belice	BZ	BLZ	084	BIZ	BH	BZ	.bz
+Benín	BJ	BEN	204	BEN	BN	BJ	.bj
+Bermudas	BM	BMU	060	BER	BD		.bm
+Bolivia	BO	BOL	068	BOL	BL	BOL	.bo
+`Bosnia y Hercegovina`	BA	BIH	070	BIH	BK	BIH	.ba
+Botsuana	BW	BWA	072	BOT	BC	RB	.bw
+Brasil	BR	BRA	076	BRA	BR	BR	.br
+Brunéi	BN	BRN	096	BRU	BX	BRU	.bn
+Bulgaria	BG	BGR	100	BUL	BU	BG	.bg
+Burkina Faso	BF	BFA	854	BUR	UV	BF	.bf
+Burundi	BI	BDI	108	BDI	BY	RU	.bi
+Bután	BT	BTN	064	BHU	BT	BHT	.bt
+Cabo Verde	CV	CPV	132	CPV	CV	CV	.cv
+Cambodia	KH	KHM	116	CAM	CB	K	.kh
+Camerún	CM	CMR	120	CMR	CM	CAM	.cm
+Canadá	CA	CAN	124	CAN	CA	CDN	.ca
+Catar	QA	QAT	634	QAT	QA	Q	.qa
+Chad	TD	TCD	148	CHA	CD	TD	.td
+Chequia	CZ	CZE	203	CZE	EZ	CZ	.cz
+Chile	CL	CHL	152	CHI	CI	RCH	.cl
+China	CN	CHN	156	CHN	CH	CHN	.cn
+Chipre	CY	CYP	196	CYP	CY	CY	.cy
+Ciudad del Vaticano	VA	VAT	336		VT	V	.va
+Colombia	CO	COL	170	COL	CO	CO	.co
+Comores	KM	COM	174	COM	CN	COM	.km
+Congo	CG	COG	178	CGO	CF	RCB	.cg
+Corea del Norte	KP	PRK	408	PRK	KN	KP	.kp
+Corea del Sur	KR	KOR	410	KOR	KS	ROK	.kr
+Costa de Marfil	CI	CIV	384	CIV	IV	CI	.ci
+Costa Rica	CR	CRI	188	CRC	CS	CR	.cr
+Croacia	HR	HRV	191	CRO	HR	HR	.hr
+Cuba	CU	CUB	192	CUB	CU	C	.cu
+Curaçao	CW	CUW	531		UC		.cw
+Dinamarca	DK	DNK	208	DEN	DA	DK	.dk
+Dominica	DM	DMA	212	DMA	DO	WD	.dm
+Ecuador	EC	ECU	218	ECU	EC	EC	.ec
+Egipto	EG	EGY	818	EGY	EG	ET	.eg
+El Salvador	SV	SLV	222	ESA	ES	ES	.sv
+Emiratos Árabes Unidos	AE	ARE	784	UAE	AE	UAE	.ae
+Eritrea	ER	ERI	232	ERI	ER	ER	.er
+Eslovaquia	SK	SVK	703	SVK	LO	SK	.sk
+Eslovenia	SI	SVN	705	SLO	SI	SLO	.si
+España	ES	ESP	724	ESP	SP	E	.es
+Estados Federados de Micronesia	FM	FSM	583	FSM	FM	FSM	.fm
+Estados Unidos	US	USA	840	USA	US	USA	.us
+Estonia	EE	EST	233	EST	EN	EST	.ee
+Esuatini	SZ	SWZ	748	SWZ	WZ	SD	.sz
+Etiopía	ET	ETH	231	ETH	ET	ETH	.et
+Fiji	FJ	FJI	242	FIJ	FJ	FJI	.fj
+Filipinas	PH	PHL	608	PHI	RP	RP	.ph
+Finlandia	FI	FIN	246	FIN	FI	FIN	.fi
+Francia	FR	FRA	250	FRA	FR	F	.fr
+Gabón	GA	GAB	266	GAB	GB	G	.ga
+Gambia	GM	GMB	270	GAM	GA	WAG	.gm
+Georgia	GE	GEO	268	GEO	GG	GE	.ge
+Georgia del Sur y las Islas Sandwich del Sur	GS	SGS	239		SX		.gs
+Ghana	GH	GHA	288	GHA	GH	GH	.gh
+Gibraltar	GI	GIB	292		GI	GBZ	.gi
+Granada	GD	GRD	308	GRN	GJ	WG	.gd
+Grecia	GR	GRC	300	GRE	GR	GR	.gr
+Groenlandia	GL	GRL	304		GL	KN	.gl
+Guadalupe	GP	GLP	312		GP		.gp
+Guam	GU	GUM	316	GUM	GQ		.gu
+Guatemala	GT	GTM	320	GUA	GT	GCA	.gt
+Guayana	GY	GUY	328	GUY	GY	GUY	.gy
+Guayana Francesa	GF	GUF	254		FG		.gf
+Guinea	GN	GIN	324	GUI	GV	RG	.gn
+Guinea Ecuatorial	GQ	GNQ	226	GEQ	EK	GQ	.gq
+Guinea-Bissau	GW	GNB	624	GBS	PU	GUB	.gw
+Haití	HT	HTI	332	HAI	HA	RH	.ht
+Honduras	HN	HND	340	HON	HO	HN	.hn
+Hong Kong	HK	HKG	344	HKG	HK	HK	.hk
+Hungría	HU	HUN	348	HUN	HU	H	.hu
+India	IN	IND	356	IND	IN	IND	.in
+Indonesia	ID	IDN	360	INA	ID	RI	.id
+Irán	IR	IRN	364	IRI	IR	IR	.ir
+Iraq	IQ	IRQ	368	IRQ	IZ	IRQ	.iq
+Irlanda	IE	IRL	372	IRL	EI	IRL	.ie
+Isla Bouvet	BV	BVT	074		BV		.bv
+Isla de Man	IM	IMN	833				.im
+Isla de Navidad	CX	CXR	162		KT		.cx
+Isla de San Martín	MF	MAF	663		RN	F	.mf
+Isla Mauricio	MU	MUS	480	MRI	MP	MS	.mu
+Isla Norfolk	NF	NFK	574		NF		.nf
+Islandia	IS	ISL	352	ISL	IC	IS	.is
+Islas Åland	AX	ALA	248			AX	.ax
+Islas Caimán	KY	CYM	136	CAY	CJ		.ky
+Islas Cocos	CC	CCK	166		CK		.cc
+Islas Cook	CK	COK	184	COK	CW		.ck
+Islas Feroe	FO	FRO	234		FO	FO	.fo
+Islas Heard y McDonald	HM	HMD	334		HM		.hm
+Islas Malvinas	FK	FLK	238		FK		.fk
+Islas Marianas del Norte	MP	MNP	580		CQ		.mp
+Islas Marshall	MH	MHL	584	MHL	RM	MH	.mh
+Islas Pitcairn	PN	PCN	612		PC		.pn
+Islas Salomón	SB	SLB	090	SOL	BP	SOL	.sb
+Islas Turcas y Caicos	TC	TCA	796		TK		.tc
+Islas Vírgenes (UK)	VG	VGB	092	IVB	VI	VG	.vg
+Islas Vírgenes Americanas	VI	VIR	850	ISV	VQ		.vi
+Israel	IL	ISR	376	ISR	IS	IL	.il
+Italia	IT	ITA	380	ITA	IT	I	.it
+Jamaica	JM	JAM	388	JAM	JM	JA	.jm
+Japón	JP	JPN	392	JPN	JA	J	.jp
+Jersey	JE	JEY	832		JE	GBJ	.je
+Jordania	JO	JOR	400	JOR	JO	JOR	.jo
+Kazajstán	KZ	KAZ	398	KAZ	KZ	KZ	.kz
+Kenia	KE	KEN	404	KEN	KE	EAK	.ke
+Kirguistán	KG	KGZ	417	KGZ	KG	KS	.kg
+Kiribati	KI	KIR	296	KIR	KR	KIR	.ki
+Kosovo	XK	XKX		KOS	KV	RKS	.ko
+Kuwait	KW	KWT	414	KUW	KU	KWT	.kw
+Laos	LA	LAO	418	LAO	LA	LAO	.la
+Lesotho	LS	LSO	426	LES	LT	LS	.ls
+Letonia	LV	LVA	428	LAT	LG	LV	.lv
+Líbano	LB	LBN	422	LBN	LE	RL	.lb
+Liberia	LR	LBR	430	LBR	LI	LB	.lr
+Libia	LY	LBY	434	LBA	LY	LAR	.ly
+Liechtenstein	LI	LIE	438	LIE	LS	FL	.li
+Lituania	LT	LTU	440	LTU	LH	LT	.lt
+Luxemburgo	LU	LUX	442	LUX	LU	L	.lu
+Macao	MO	MAC	446		MC		.mo
+Macedonia del Norte	MK	MKD	807	MKD	MK	MK	.mk
+Madagascar	MG	MDG	450	MAD	MA	RM	.mg
+Malasia	MY	MYS	458	MAS	MY	MAL	.my
+Malaui	MW	MWI	454	MAW	MI	MW	.mw
+Maldivas	MV	MDV	462	MDV	MV	MV	.mv
+Malí	ML	MLI	466	MLI	ML	RMM	.ml
+Malta	MT	MLT	470	MLT	MT	M	.mt
+Marruecos	MA	MAR	504	MAR	MO	MA	.ma
+Martinica	MQ	MTQ	474		MB		.mq
+Mauritania	MR	MRT	478	MTN	MR	RIM	.mr
+Mayotte	YT	MYT	175		MF		.yt
+México	MX	MEX	484	MEX	MX	MEX	.mx
+Moldavia	MD	MDA	498	MDA	MD	MD	.md
+Mongolia	MN	MNG	496	MGL	MG	MGL	.mn
+Montenegro	ME	MNE	499	MNE	MJ	MNE	.me
+Montserrat	MS	MSR	500		MH		.ms
+Mozambique	MZ	MOZ	508	MOZ	MZ	MOC	.mz
+Myanmar	MM	MMR	104	MYA	BM	MYA	.mm
+Namibia	NA	NAM	516	NAM	WA	NAM	.na
+Nauru	NR	NRU	520	NRU	NR	NAU	.nr
+Nepal	NP	NPL	524	NEP	NP	NEP	.np
+Nicaragua	NI	NIC	558	NCA	NU	NIC	.ni
+Níger	NE	NER	562	NIG	NG	RN	.ne
+Nigeria	NG	NGA	566	NGR	NI	NGR	.ng
+Niue	NU	NIU	570		NE		.nu
+Noruega	NO	NOR	578	NOR	NO	N	.no
+Nueva Caledonia	NC	NCL	540		NC	NCL	.nc
+Nueva Zelandia	NZ	NZL	554	NZL	NZ	NZ	.nz
+Omán	OM	OMN	512	OMA	MU	OM	.om
+Países Bajos	NL	NLD	528	NED	NL	NL	.nl
+Pakistán	PK	PAK	586	PAK	PK	PK	.pk
+Palaos	PW	PLW	585	PLW	PS	PAL	.pw
+Palestina	PS	PSE	275	PLE	WE	WB	.ps
+Panamá	PA	PAN	591	PAN	PM	PA	.pa
+Papúa Nueva Guinea	PG	PNG	598	PNG	PP	PNG	.pg
+Paraguay	PY	PRY	600	PAR	PA	PY	.py
+Perú	PE	PER	604	PER	PE	PE	.pe
+Polinesia Francesa	PF	PYF	258		FP		.pf
+Polonia	PL	POL	616	POL	PL	PL	.pl
+Portugal	PT	PRT	620	POR	PO	P	.pt
+Principado de Mónaco	MC	MCO	492	MON	MN	MC	.mc
+Puerto Rico	PR	PRI	630	PUR	RQ	PRI	.pr
+Reino Unido	GB	GBR	826	GBR	UK	GBM	.uk
+República Centroafricana	CF	CAF	140	CAF	CT	RCA	.cf
+República Democrática del Congo	CD	COD	180	COD	CG	CGO	.cd
+República Dominicana	DO	DOM	214	DOM	DR	DOM	.do
+Reunión	RE	REU	638		RE		.re
+Ruanda	RW	RWA	646	RWA	RW	RWA	.rw
+Rumania	RO	ROU	642	ROU	RO	RUM	.ro
+Rusia	RU	RUS	643	RUS	RS	RUS	.ru
+Sáhara Occidental	EH	ESH	732		WI	WSA	.eh
+Samoa	WS	WSM	882	SAM	WS	WS	.ws
+Samoa Americana	AS	ASM	016	ASA	AQ	USA	.as
+San Bartolomé	BL	BLM	652		TB		.bl
+San Cristóbal y Nieves	KN	KNA	659	SKN	SC	KAN	.kn
+San Marino	SM	SMR	674	SMR	SM	RSM	.sm
+San Pedro y Miquelón	PM	SPM	666		SB		.pm
+San Vicente y las Granadinas	VC	VCT	670	VIN	VC	WV	.vc
+Santa Elena, Ascensión y Tristán de Acuña	SH	SHN	654		SH		.sh
+Santa Lucía	LC	LCA	662	LCA	ST	WL	.lc
+Santo Tomé y Príncipe	ST	STP	678	STP	TP	STP	.st
+Senegal	SN	SEN	686	SEN	SG	SN	.sn
+Serbia	RS	SRB	688	SRB	RI	SRB	.rs
+Seychelles	SC	SYC	690	SEY	SE	SY	.sc
+Sierra Leona	SL	SLE	694	SLE	SL	WAL	.sl
+Singapur	SG	SGP	702	SGP	SN	SGP	.sg
+Sint Maarten	SX	SXM	534		NN		.sx
+Siria	SY	SYR	760	SYR	SY	SYR	.sy
+Somalia	SO	SOM	706	SOM	SO	SO	.so
+Sri Lanka	LK	LKA	144	SRI	CE	CL	.lk
+Sudáfrica	ZA	ZAF	710	RSA	SF	ZA	.za
+Sudán	SD	SDN	736	SUD	SU	SUD	.sd
+Sudán del Sur	SS	SSD	728			SSD	.ss
+Suecia	SE	SWE	752	SWE	SW	S	.se
+Suiza	CH	CHE	756	SUI	SZ	CH	.ch
+Surinam	SR	SUR	740	SUR	NS	SME	.sr
+Svalbard y Jan Mayen	SJ	SJM	744		SV		.sj
+Tailandia	TH	THA	764	THA	TH	T	.th
+Taiwán	TW	TWN	158	TPE	TW	RC	.tw
+Tanzania	TZ	TZA	834	TAN	TZ	EAT	.tz
+Tayikistán	TJ	TJK	762	TJK	TI	TJ	.tj
+Territorio Británico del Océano Índico	IO	IOT	086		IO		.io
+Territorios Australes y Antárticos Franceses	TF	ATF	260		FS		.tf
+Timor Oriental	TL	TLS	626	TLS	TT	TL	.tl
+Togo	TG	TGO	768	TOG	TO	TG	.tg
+Tokelau	TK	TKL	772		TL		.tk
+Tonga	TO	TON	776	TGA	TN	TON	.to
+Trinidad y Tobago	TT	TTO	780	TTO	TD	TT	.tt
+Túnez	TN	TUN	788	TUN	TS	TN	.tn
+Turkmenistán	TM	TKM	795	TKM	TX	TM	.tm
+Turquía	TR	TUR	792	TUR	TU	TR	.tr
+Tuvalu	TV	TUV	798	TUV	TV	TUV	.tv
+Ucrania	UA	UKR	804	UKR	UP	UA	.ua
+Uganda	UG	UGA	800	UGA	UG	EAU	.ug
+Uruguay	UY	URY	858	URU	UY	ROU	.uy
+Uzbekistán	UZ	UZB	860	UZB	UZ	UZ	.uz
+Vanuatu	VU	VUT	548	VAN	NH	VAN	.vu
+Venezuela	VE	VEN	862	VEN	VE	YV	.ve
+Vietnam	VN	VNM	704	VIE	VM	VN	.vn
+Wallis y Futuna	WF	WLF	876		WF		.wf
+Yemen	YE	YEM	887	YEM	YM	YEM	.ye
+Yibuti	DJ	DJI	262	DJI	DJ	DJI	.dj
+Zambia	ZM	ZMB	894	ZAM	ZA	Z	.zm
+Zimbabue	ZW	ZWE	716	ZIM	ZI	ZW	.zw
